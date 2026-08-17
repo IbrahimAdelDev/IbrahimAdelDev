@@ -45,21 +45,13 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 ### 🛠️ Languages
 
 <p align="center">
-
-<code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-
-<code><img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-
-<code><img title="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-
-<code><img title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-
-<code><img title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-
-<code><img title="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-
-<code><img title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-
+  <img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img title="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img title="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img title="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
 
 ### ⚙️ Backend
