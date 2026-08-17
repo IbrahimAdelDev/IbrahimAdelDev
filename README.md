@@ -57,13 +57,9 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 ### ⚙️ Backend
 
 <p align="center">
-
 <code><img title="Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
-
 <code><img title="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-
 <code><img title="Express.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-
 </p>
 
 **Backend Concepts**
