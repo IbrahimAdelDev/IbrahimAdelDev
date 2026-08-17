@@ -93,8 +93,6 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 
 <p align="center">
 
-<code><img title="Cisco" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg"></code>
-
 <code><img title="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
 </p>
@@ -144,14 +142,6 @@ A learning management system backend with role-based access control, RESTful API
 * 📝 Created **25+ problems** for ECPC & ICPC training
 * 👨‍🏫 IEEE Trainer — Delivered **50+ Data Structures & Algorithms sessions**
 
-### 📈 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAdelDev&show_icons=true&hide_border=true&theme=dark" />
-
-</p>
-
 ### 📺 Garage Software
 
 I'm building **Garage Software | جراج Software** to share practical programming and software engineering content.
@@ -159,9 +149,3 @@ I'm building **Garage Software | جراج Software** to share practical programm
 <a href="https://www.youtube.com/@IbrahimAdelDev">
   <img src="https://img.shields.io/badge/Subscribe%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
----
-
-<p align="center">
-  <i>"Build. Learn. Share. Repeat."</i>
-</p>
