@@ -56,7 +56,7 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 
 ### ⚙️ Backend
 
-<p align="center">
+<p>
 <code><img title="Laravel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
 <code><img title="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img title="Express.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
@@ -68,34 +68,23 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 
 ### 🎨 Frontend
 
-<p align="center">
+<p>
 
 <code><img title="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-
 <code><img title="Vue.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-
 <code><img title="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></code>
-
 <code><img title="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-
 <code><img title="Tailwind CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
-
 <code><img title="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-
 <code><img title="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-
 </p>
 
 ### 🗄️ Databases
 
-<p align="center">
-
+<p>
 <code><img title="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-
 <code><img title="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-
 <code><img title="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-
 </p>
 
 `Database Design` · `SQL` · `Query Optimization` · `Relationships` · `Transactions`
@@ -119,18 +108,12 @@ I build scalable backend systems, RESTful APIs, real-time applications, and data
 
 ### 🔧 Tools & Technologies
 
-<p align="center">
-
+<p>
 <code><img title="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-
 <code><img title="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-
 <code><img title="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-
 <code><img title="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-
 <code><img title="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></code>
-
 </p>
 
 ### 🚀 Featured Projects
